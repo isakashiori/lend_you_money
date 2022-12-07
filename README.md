@@ -56,5 +56,10 @@ README〜ER図作成：12/18〆切
 ## ER図
 https://drive.google.com/file/d/1CAjYTCTC9ps3GQiMmX13sd6OBgvsGiJG/view?usp=sharing
 
+
 ## 画面推移ず
 https://www.figma.com/file/6w5Ce5uJPVbGGLf16rrsfA/Untitled?node-id=3%3A18&t=GOsFFSNQja91PZyI-1
+
+## 画面推移図
+https://www.figma.com/file/6w5Ce5uJPVbGGLf16rrsfA/Untitled?node-id=3%3A18&t=GOsFFSNQja91PZyI-1
+
