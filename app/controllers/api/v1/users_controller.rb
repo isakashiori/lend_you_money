@@ -1,6 +1,6 @@
 module Api
   module V1
-    class RegistrationsController < BaseController
+    class UsersController < BaseController
       def create
         @user = User.new(user_params)
 
