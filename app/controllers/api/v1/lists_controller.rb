@@ -1,6 +1,13 @@
 class Api::V1::ListsController < ApplicationController
   def create
     list = List.new(list_params)
+
+    if list.save
+      json_string = ListSerializer.new(list).serialized_json
+      render json: json_string
+    else
+      render_400(nil, @user.errors.full_messages)
+    end
   end
 
   private
