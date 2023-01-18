@@ -1,4 +1,4 @@
-class Api::V1::ListsController < ApplicationController
+class Api::V1::ListsController < BaseController
   def create
     list = List.new(list_params)
 
